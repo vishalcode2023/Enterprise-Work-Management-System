@@ -93,7 +93,7 @@ Edit
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/enterprise-taskflow.git
+https://github.com/vishalcode2023/Enterprise-Work-Management-System
 cd enterprise-taskflow
 npm install
 npm run dev  # or npm run start
